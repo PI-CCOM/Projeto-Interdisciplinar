@@ -25,4 +25,4 @@ Por enquanto, apenas escaneia o código e mostra o resultado em texto. Porém, o
 
 
 # Download
-[Aqui | Here](https://github.com/david042/Leitor-de-QR-Code/releases/download/v1/20210523083816-app-debug.apk)
+[Aqui](https://github.com/PI-CCOM/Projeto-Interdisciplinar/releases/tag/Publish)
