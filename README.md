@@ -1,36 +1,11 @@
-# Leitor de Código QR
+# Leitor de Código QR para Fluxo de Pessoas dentro do Quartel
 
-leitor de Código QR e outros tipos de código de barras extremamente simples para Android
+Aplicação de leitura de Código QR e outros tipos de código de barras simples para Android.
 
-só escaneia o código e mostra o resultado em texto
-
-
-**tipos suportados**
-
-* QR_CODE
-* DATA_MATRIX	
-* UPC_A
-* UPC_E
-* EAN_8
-* EAN_13
-* CODE_39
-* CODE_93
-* CODE_128
-* CODABAR
-* ITF
-* RSS14
-* PDF_417
-* RSS_EXPANDED
-* AZTEC
-
-# QR Code scanner
-
-extremely simple QR Code and other barcode types reader for Android
-
-it just scan the code and display the result in text
+Por enquanto, apenas escaneia o código e mostra o resultado em texto. Porém, o objetivo é fazer a associação do aplicativo à alguma base de dados.
 
 
-**supported types**
+**tipos de códigos suportados**
 
 * QR_CODE
 * DATA_MATRIX	
@@ -47,6 +22,7 @@ it just scan the code and display the result in text
 * PDF_417
 * RSS_EXPANDED
 * AZTEC
+
 
 # Download
 [Aqui | Here](https://github.com/david042/Leitor-de-QR-Code/releases/download/v1/20210523083816-app-debug.apk)
